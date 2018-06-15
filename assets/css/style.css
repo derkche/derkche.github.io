@@ -168,12 +168,20 @@ h3, h2 {
   border-bottom: 0;
 }
 
-.auth-image {
+.auth-image-left {
   float: left;
   width: 200px;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+
+.auth-image-right {
+  float: right;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 25px;
 }
 
 /* contact page */
